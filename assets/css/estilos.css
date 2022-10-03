@@ -2,6 +2,9 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.miTexto{
+  color: yellow;
+}
 /* Hero Section */
 
 #Hero-Section {
